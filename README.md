@@ -1,5 +1,5 @@
 # Neuralese-Transformers
-My first successful implementation of Neuralese that helps to significantly improve story generation in base models without any training.
+My first successful implementation of Neuralese that helps to significantly improve story generation and make them feel more personal and less determenistic without any training or special prompting just an emergent behavior!
 
 Qwen3-0.6B
 ---
